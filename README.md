@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mk281005
+- 👋 Hi, I’m @Mk281005 aka B.G.Manoj Kumar
 - 👀 I’m working as a web developer in tech strack java script,java and python
 - 🌱 I’m currently pursuing ECE at NIT Durgapur,India
 
